@@ -1,10 +1,9 @@
 ![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Md Sameer</h1>
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
-<img src=“[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)” /> 
+<h2 align="center">A passionate software developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razer99&label=Profile%20views&color=0e75b6&style=flat" alt="razer99" /> </p>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 I’m currently working on **Blockchain technology**
 
@@ -20,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/_sameer_7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sameer_7_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/razer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/damned razer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="damned razer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/razer7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="razer7" height="30" width="40" /></a>
 </p>
 
@@ -29,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razer99&show_icons=true&locale=en&layout=compact" alt="razer99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razer99&show_icons=true&locale=en" alt="razer99" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razer99&" alt="razer99" /></p>
