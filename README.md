@@ -1,13 +1,13 @@
 ![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Md Sameer</h1>
-<h3 align="center">Aspiring Software Developer | Proficient in Java & Spring Boot | Cloud Foundations on AWS  </h3>
-<h3 align="center"> MERN Stack Developer | DSA & Logic Building </h3>
+<h3 align="center"> Software Developer | Proficient in Java & Spring Boot | 2xAWS </h3>
+<h3 align="center"> System Design | Complex Architecture | DSA & Logic Building </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 Currently building scalable backend systems using **Java + Spring Boot**  
-- 🌱 Learning and working with **MERN Stack** and **FastAPI**  
+- 🌱 Learning and working with **Microservices** and **SecureSystem**  
 - ☁️ Experienced with **AWS services**: Lambda, EC2, S3, API Gateway, IoT Core  
 - 🔐 Skilled at building **secure REST APIs**, Docker deployment, and cloud infrastructure  
 - 💬 Ask me about **DSA**, **System Design**, and **Cloud-Native App Dev**  
