@@ -3,7 +3,7 @@
   <img src="razer.jpg" align="right" width="350" style="border-radius:10px; margin-left:15px;" />
 </p>
 
-<h1 align="center"> 👾 I'm <b>Md Sameer</b> — Backend Engineer & Cloud Developer 👾</h1>
+<h1 align="center">  I'm <b>Md Sameer</b> — Backend Engineer & Software Developer </h1>
 
 <h3 align="center">
   ⚡ Java | Spring Boot | AWS | Distributed Systems | Security | System Design ⚡  
@@ -15,13 +15,13 @@
 
 ---
 
-## 🚀 About Me — “Engineer who builds real systems, not tutorials”
+## 👾 About Me — “Engineer who builds real systems, not tutorials”
 🔹 **Backend-focused Developer** with strong command over Java, Spring Boot & AWS  
 🔹 I design **scalable architectures**, secure APIs, and cloud-native deployments  
 🔹 Experienced with **Distributed Systems, Microservices & Production Ops**  
 🔹 Strong in **DSA & Logic Building** — I enjoy solving complex problems  
 🔹 2× AWS Certified | Built multiple **end-to-end production-style projects**  
-🔹 Love clean code, cloud engineering, football ⚽, and anime 🔥  
+🔹 Love clean code, cloud engineering, football ⚽, and anime 👾
 
 📩 **Reach me:** **mdsameer8729@gmail.com**
 
@@ -87,7 +87,7 @@ A student marketplace with authentication + dynamic listings
 
 ---
 
-## Not done until I win!
+## Not done until I win! 🎯
 <p align="center">
   <img src="https://i.imgur.com/jx17oHT.gif" width="300" />
 </p>
