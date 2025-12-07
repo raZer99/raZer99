@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/4V0Qx40/cyberpunk-anime-banner.gif" width="100%" />
+  <img src="razer.jpg" align="right" width="350" style="border-radius:10px; margin-left:15px;" />
 </p>
 
 <h1 align="center">🌟 Hey, I'm <b>Md Sameer</b> — Backend Engineer & Cloud Developer 🌩️</h1>
@@ -87,10 +87,16 @@ A student marketplace with authentication + dynamic listings
 
 ---
 
-## 🎴 Anime Corner — because good engineers have good taste  
+## Not done until I win!
 <p align="center">
   <img src="https://i.imgur.com/jx17oHT.gif" width="300" />
-  <img src="https://i.imgur.com/0rHcQZq.gif" width="300" />
+</p>
+
+---
+
+## Pushing Limits  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/88/34/7b/88347b7b1b31e7fc4abd0c4f113fb39e.gif" width="350" />
 </p>
 
 ---
