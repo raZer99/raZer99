@@ -1,73 +1,100 @@
-![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/4V0Qx40/cyberpunk-anime-banner.gif" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Md Sameer</h1>
-<h3 align="center"> Software Developer | Proficient in Java & Spring Boot | 2xAWS </h3>
-<h3 align="center"> System Design | Complex Architecture | DSA & Logic Building </h3>
+<h1 align="center">🌟 Hey, I'm <b>Md Sameer</b> — Backend Engineer & Cloud Developer 🌩️</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center">
+  ⚡ Java | Spring Boot | AWS | Distributed Systems | Security | System Design ⚡  
+</h3>
 
-- 🔭 Currently building scalable backend systems using **Java + Spring Boot**  
-- 🌱 Learning and working with **Microservices** and **SecureSystem**  
-- ☁️ Experienced with **AWS services**: Lambda, EC2, S3, API Gateway, IoT Core  
-- 🔐 Skilled at building **secure REST APIs**, Docker deployment, and cloud infrastructure  
-- 💬 Ask me about **DSA**, **System Design**, and **Cloud-Native App Dev**  
-- ⚡ Fun fact: I slide-tackle bugs like I do in football ⚽  
-- 📫 Reach me at **mdsameer8729@gmail.com**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/_sameer_7_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30"/></a>
-  <a href="https://linkedin.com/in/razer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30"/></a>
-  <a href="https://leetcode.com/razer7" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" height="30"/></a>
-  <a href="https://github.com/raZer99" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30"/></a>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9f3514abc6aa8c4146e049d7c.gif" width="280"/>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30"/>
+## 🚀 About Me — “Engineer who builds real systems, not tutorials”
+🔹 **Backend-focused Developer** with strong command over Java, Spring Boot & AWS  
+🔹 I design **scalable architectures**, secure APIs, and cloud-native deployments  
+🔹 Experienced with **Distributed Systems, Microservices & Production Ops**  
+🔹 Strong in **DSA & Logic Building** — I enjoy solving complex problems  
+🔹 2× AWS Certified | Built multiple **end-to-end production-style projects**  
+🔹 Love clean code, cloud engineering, football ⚽, and anime 🔥  
+
+📩 **Reach me:** **mdsameer8729@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/razer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://twitter.com/_sameer_7_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  <a href="https://leetcode.com/razer7" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="33"/>
+  </a>
+  <a href="https://github.com/raZer99" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">💼 Featured Projects:</h3>
+## 🛠️ Tech Stack — “Tools I use to build production-grade systems”
 
-🔹 <b>PresencePro</b>  
-Face Recognition | GPS Clustering | Java (Android) + Python (Flask)  
-Proxy-resistant smart attendance system with dual Android apps and Firestore sync  
-GitHub: [PresencePro](https://github.com/raZer99/PresencePro)
-
-🔹 <b>Spring Boot Bookstore API</b>  
-Spring Boot | PostgreSQL | Docker | AWS  
-Clean REST APIs with JPA, DTOs, pagination, exception handling and 100% JUnit coverage  
-GitHub: [Spring Boot Bookstore](https://github.com/raZer99/springboot-bookstore-api)
-
-🔹 <b>Campus Market</b>  
-MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-Student-friendly e-commerce platform with secure auth and dynamic listings  
-GitHub: [Campus Market](https://github.com/raZer99/Campus-Market)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,aws,docker,react,js,nodejs,postgres,mongodb,linux,git" />
+</p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razer99&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+## 📌 Featured Projects
+
+### 🔥 **NeuroNexus — Workflow Orchestration Platform**
+Microservices • Queue-based Orchestration • Docker • PostgreSQL  
+A production-style platform that automates IT workflows such as ticket triage, JIRA creation, notifications, and service deployments — powered by clean architecture and scalable backend modules.  
+**GitHub:** https://github.com/raZer99/NeuroNexus
+
+---
+
+### 🔥 **PresencePro — Smart Attendance System**
+Face Recognition • GPS Clustering • Proxy Resistant  
+Java (Android) + Python (Flask) + Firestore  
+**GitHub:** https://github.com/raZer99/PresencePro
+
+---
+
+### 🛒 **Campus Market (MERN Stack)**
+A student marketplace with authentication + dynamic listings  
+**GitHub:** https://github.com/raZer99/Campus-Market
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=razer99&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razer99&layout=compact&theme=tokyonight" height="160"/>
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razer99&" alt="GitHub Streak" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razer99&theme=tokyonight" height="200"/>
+</p>
+
+---
+
+## 🎴 Anime Corner — because good engineers have good taste  
+<p align="center">
+  <img src="https://i.imgur.com/jx17oHT.gif" width="300" />
+  <img src="https://i.imgur.com/0rHcQZq.gif" width="300" />
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ If my projects inspired you, consider giving them a star!</b>  
 </p>
