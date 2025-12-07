@@ -3,7 +3,7 @@
   <img src="razer.jpg" align="right" width="350" style="border-radius:10px; margin-left:15px;" />
 </p>
 
-<h1 align="center">🌟 Hey, I'm <b>Md Sameer</b> — Backend Engineer & Cloud Developer 🌩️</h1>
+<h1 align="center"> 👾 I'm <b>Md Sameer</b> — Backend Engineer & Cloud Developer 👾</h1>
 
 <h3 align="center">
   ⚡ Java | Spring Boot | AWS | Distributed Systems | Security | System Design ⚡  
@@ -90,13 +90,6 @@ A student marketplace with authentication + dynamic listings
 ## Not done until I win!
 <p align="center">
   <img src="https://i.imgur.com/jx17oHT.gif" width="300" />
-</p>
-
----
-
-## Pushing Limits  
-<p align="center">
-  <img src="https://i.pinimg.com/originals/88/34/7b/88347b7b1b31e7fc4abd0c4f113fb39e.gif" width="350" />
 </p>
 
 ---
