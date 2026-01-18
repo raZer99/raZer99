@@ -6,7 +6,7 @@
 <h1 align="center">  I'm <b>Md Sameer</b> — Backend Engineer & Software Developer </h1>
 
 <h3 align="center">
-  ⚡ Java | Spring Boot | AWS | Distributed Systems | Security | System Design ⚡  
+  ⚡ Java | Spring Boot | AWS | Distributed Systems | GenAI | Security | System Design ⚡  
 </h3>
 
 <p align="center">
