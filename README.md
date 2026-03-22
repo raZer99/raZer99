@@ -16,7 +16,7 @@
 
 ---
 
-## 👾 About Me — “Engineer who builds real systems, not tutorials”
+## 👾 About Me — “About Me — “From Debugging Systems to Building Them”
 🔹 **Backend-focused Developer** with strong command over Java, Spring Boot & AWS  
 🔹 I design **scalable architectures**, secure APIs, and cloud-native deployments  
 🔹 Experienced with **Distributed Systems, Microservices & Production Ops**  
