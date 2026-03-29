@@ -3,7 +3,7 @@
   <img src="razer.jpg" align="right" width="350" style="border-radius:10px; margin-left:15px;" />
 </p>
 
-<h1 align="center">  I'm <b>Md Sameer</b> — Backend Engineer & Software Developer </h1>
+<h1 align="center">  I'm <b>Md Sameer</b> — Associate Cloud Engineer & Backend Developer </h1>
 
 <h3 align="center">
   ⚡ Java • Spring Boot • AWS • Distributed Systems <br/>
