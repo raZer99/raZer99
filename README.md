@@ -56,25 +56,25 @@
 
 ## ● Featured Projects
 
-### **NeuroNexus — Workflow Orchestration Platform**
+### ➤ **NeuroNexus — Workflow Orchestration Platform**
 Microservices • Queue-based Orchestration • Docker • PostgreSQL  
 A production-style platform that automates IT workflows such as ticket triage, JIRA creation, notifications, and service deployments — powered by clean architecture and scalable backend modules.  
 **GitHub:** https://github.com/raZer99/NeuroNexus
 
 ---
 
-### **PresencePro — Smart Attendance System**
+### ➤ **PresencePro — Smart Attendance System**
 Face Recognition • GPS Clustering • Proxy Resistant  
 Java (Android) + Python (Flask) + Firestore  
 **GitHub:** https://github.com/raZer99/PresencePro
 
 ---
 
-### **Campus Market (MERN Stack)**
+### ➤ **Campus Market (MERN Stack)**
 A student marketplace with authentication and dynamic listings  
 **GitHub:** https://github.com/raZer99/Campus-Market
 
 ---
 
 ## ● Open to Opportunities
-Open to **Software Engineer** / **Backend Developer** roles where I can contribute to building scalable and reliable systems.
+***Open to **Software Engineer** / **Backend Developer** roles where I can contribute to building scalable and reliable systems.***
