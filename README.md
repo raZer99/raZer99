@@ -16,7 +16,7 @@
 
 ---
 
-## ● About Me — “love to declutter my mind to build what engineers actually do”
+## ● About Me — ***“I like to declutter my mind and build”***
 🔹 **Backend-focused Developer** with strong command over Java, Spring Boot & AWS  
 🔹 I design **scalable architectures**, secure APIs, and cloud-native deployments  
 🔹 Experienced with **Distributed Systems, Microservices & Production Ops**  
