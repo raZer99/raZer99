@@ -3,7 +3,7 @@
   <img src="razer.jpg" align="right" width="350" style="border-radius:10px; margin-left:15px;" />
 </p>
 
-<h1 align="center">  I'm <b>Md Sameer</b> — Associate Cloud Engineer & Backend Developer </h1>
+<h1 align="center">I'm <b>Md Sameer</b> - Associate Cloud Engineer & Backend Developer</h1>
 
 <h3 align="center">
   ⚡ Java • Spring Boot • AWS • Distributed Systems <br/>
@@ -16,19 +16,19 @@
 
 ---
 
-## 👾 About Me — “From Debugging Systems to Building Them”
+### About Me — “love to declutter my mind to build what engineers actually do”
 🔹 **Backend-focused Developer** with strong command over Java, Spring Boot & AWS  
 🔹 I design **scalable architectures**, secure APIs, and cloud-native deployments  
 🔹 Experienced with **Distributed Systems, Microservices & Production Ops**  
-🔹 Strong in **DSA & Logic Building** — I enjoy solving complex problems  
+🔹 Strong in **DSA & Logic Building** - I enjoy solving complex problems  
 🔹 2× AWS Certified | Built multiple **end-to-end production-style projects**  
-🔹 Love clean code, cloud engineering, football ⚽, and anime 👾
+🔹 Love clean code, cloud engineering, football ⚽, and anime 👾  
 
-📩 **Reach me:** **mdsameer8729@gmail.com**
+**Reach me:** **mdsameer8729@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+### Connect With Me
 <p>
   <a href="https://linkedin.com/in/razer" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ Tech Stack — “Tools I use to build production-grade systems”
+## Tech Stack: ...more loading...
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,aws,docker,react,js,nodejs,postgres,mongodb,linux,git" />
@@ -54,43 +54,27 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔥 **NeuroNexus — Workflow Orchestration Platform**
+### **NeuroNexus — Workflow Orchestration Platform**
 Microservices • Queue-based Orchestration • Docker • PostgreSQL  
 A production-style platform that automates IT workflows such as ticket triage, JIRA creation, notifications, and service deployments — powered by clean architecture and scalable backend modules.  
 **GitHub:** https://github.com/raZer99/NeuroNexus
 
 ---
 
-### 🔥 **PresencePro — Smart Attendance System**
+### **PresencePro — Smart Attendance System**
 Face Recognition • GPS Clustering • Proxy Resistant  
 Java (Android) + Python (Flask) + Firestore  
 **GitHub:** https://github.com/raZer99/PresencePro
 
 ---
 
-### 🛒 **Campus Market (MERN Stack)**
-A student marketplace with authentication + dynamic listings  
+### **Campus Market (MERN Stack)**
+A student marketplace with authentication and dynamic listings  
 **GitHub:** https://github.com/raZer99/Campus-Market
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razer99&theme=tokyonight" height="200"/>
-</p>
-
----
-
-## Not done until I win! 🎯
-<p align="center">
-  <img src="https://i.imgur.com/jx17oHT.gif" width="300" />
-</p>
-
----
-
-<p align="center">
-  <b>⭐ If my projects inspired you, consider giving them a star!</b>  
-</p>
+## Open to Opportunities
+Open to **Software Engineer** / **Backend Developer** roles where I can contribute to building scalable and reliable systems.
