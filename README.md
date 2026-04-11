@@ -16,7 +16,7 @@
 
 ---
 
-### About Me — “love to declutter my mind to build what engineers actually do”
+## ● About Me — “love to declutter my mind to build what engineers actually do”
 🔹 **Backend-focused Developer** with strong command over Java, Spring Boot & AWS  
 🔹 I design **scalable architectures**, secure APIs, and cloud-native deployments  
 🔹 Experienced with **Distributed Systems, Microservices & Production Ops**  
@@ -28,7 +28,7 @@
 
 ---
 
-### Connect With Me
+## ● Connect With Me
 <p>
   <a href="https://linkedin.com/in/razer" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
@@ -46,7 +46,7 @@
 
 ---
 
-## Tech Stack: ...more loading...
+## ● Tech Stack: 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,aws,docker,react,js,nodejs,postgres,mongodb,linux,git" />
@@ -54,7 +54,7 @@
 
 ---
 
-## Featured Projects
+## ● Featured Projects
 
 ### **NeuroNexus — Workflow Orchestration Platform**
 Microservices • Queue-based Orchestration • Docker • PostgreSQL  
@@ -76,5 +76,5 @@ A student marketplace with authentication and dynamic listings
 
 ---
 
-## Open to Opportunities
+## ● Open to Opportunities
 Open to **Software Engineer** / **Backend Developer** roles where I can contribute to building scalable and reliable systems.
